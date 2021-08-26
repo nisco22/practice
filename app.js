@@ -59,7 +59,7 @@ class Calculator{
     }
 }
 
-//Selectors
+//Selectors targeting html
 const numberButtons = document.querySelectorAll('[data-number]');
 const operationButtons = document.querySelectorAll('[data-operation]');
 const deleteButton = document.querySelector('[data-delete]');
